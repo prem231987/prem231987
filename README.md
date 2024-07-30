@@ -1,6 +1,6 @@
 - 👋 Hi, I’m prem kushwaha
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python and arduino
+- 👀 I’m interested in programming and integration with different technologies
+- 🌱 I’m currently learning R,python,arduino, MATLAB and LaTeX
 - 💞️ I’m looking to collaborate on sensors data collection
 - 📫 How to reach me prem267@live.com, 9993400818
 
